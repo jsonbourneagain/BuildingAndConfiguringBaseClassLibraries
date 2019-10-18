@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MyShapes
 {
-    class Square
+    public class Hexagon
     {
     }
 }
